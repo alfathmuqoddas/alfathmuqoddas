@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Alfath Muqoddas!
 
 🚀 As a dedicated Front-End Web Developer with a focus on React.js, I thrive on creating dynamic and user-friendly interfaces. My expertise extends to the Next.js framework, allowing me to build performant, server-rendered React applications seamlessly.
 
