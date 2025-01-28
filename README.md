@@ -12,6 +12,6 @@
 
 ⚡ I've built some front-end web applications for a big company, which went into some rigorous testing process and subsequently went live. Yeah been there.
 
-📧 Feel free to connect! If there's some questions or business inquiries, you can contact me. I believe I have adequeate experinces to address your needs.
+📧 Feel free to connect! You can contact me for any questions or business inquiries. I believe I have adequeate experinces to address your needs.
 
 
