@@ -1,17 +1,17 @@
 👋 Hello, I'm Alfath Muqoddas!
 
-🚀 As a dedicated Front-End Web Developer with a focus on React.js, I thrive on creating dynamic and user-friendly interfaces. My expertise extends to the Next.js framework, allowing me to build performant, server-rendered React applications seamlessly.
+How you doin? Welcome to my github repo, feel free to check out my repo collection!
 
-💻 On the back end, I leverage the power of Express.js to develop robust APIs that complement the front-end experience. Whether it's crafting intricate user interfaces or designing efficient server-side logic, I'm committed to delivering high-quality solutions.
+I'm mainly a front-end web developer, been dealing with many front-end frameworks, but professionally I'm a reactjs dev.
 
-☁️ As a Cloud Engineer, I navigate the vast landscape of cloud technologies with ease. My proficiency includes Kubernetes for container orchestration and deployment, ensuring scalable and resilient applications. I'm also well-versed in Red Hat OpenShift, contributing to a seamless experience in managing containerized applications at scale.
+I also have some interest with backend framework, like Laravel, Expressjs, and currently Spring Boot. I've built some restful web api with those framework, please check out some of my repo.
 
-🛠️ My technology stack includes:
-   - React.js and Next.js for powerful front-end development
-   - Express.js for building scalable and efficient server-side applications
-   - Kubernetes and Red Hat OpenShift for container orchestration and cloud-native deployment
-   - Cloud engineering to harness the potential of cloud platforms
+My passion in programming began with my interest in Linux. So I have this personal connection with Linux. I've distro-hopped on many distros like Debian, Arch, Fedora, you name it. I have some repo if you interested in ricing your distro's look and feel. I got some scripts to automate your linux distro deployment in virtual environment, please check it out!
 
-🌐 Explore my repositories to discover projects showcasing my skills in front-end development, React.js applications, DevOps practices, and cloud engineering. I'm passionate about embracing new challenges and driving innovation in the ever-evolving tech landscape.
+I have experience in setting up some cloud environment for a web app deployment like Google Cloud Compute Engine, Google Cloud Kubernetes Engine, Google Clound VPC Network, Google Cloud Object Storage and RedHat Openshift.
 
-📫 Let's connect! Whether it's collaborating on projects, discussing the latest tech trends, or exploring opportunities, I'm always open to new connections. Let's shape the future of web development, DevOps, and cloud engineering together! 🚀
+I've built some front-end web applications for a big company, which went into some rigorous testing process and subsequently went live. Yeah been there.
+
+Feel free to connect! If there's some questions or business inquiries, you can contact me. I believe I have adequeate experinces to address your needs.
+
+
